@@ -1,5 +1,5 @@
-# FGOALS-f3_TC
-FGOALS-f3 TC simulations
+# CAS_FGOALS-f3_TC
+CAS FGOALS-f3 TC simulations
 
 Overview
 This repository contains the data, scripts, and figures for the analysis presented in the paper "Advancing Towards Grey Zone: Evaluation of Tropical Cyclones in Key Basins with the 12.5 km High Resolution IAP-CAS (FGOALS-f3) Model".
