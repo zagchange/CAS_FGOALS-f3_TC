@@ -1,4 +1,10 @@
-matplotlib
+basemap
 cartopy
+matplotlib
 numpy
 pandas
+pyproj
+pyshp
+scikit-learn
+scipy
+shapely
