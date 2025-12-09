@@ -1,10 +1,11 @@
 basemap
 cartopy
 matplotlib
-numpy
+numpy==1.23
 pandas
 pyproj
 pyshp
 scikit-learn
 scipy
+seaborn
 shapely
