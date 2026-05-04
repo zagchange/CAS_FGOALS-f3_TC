@@ -1,0 +1,13 @@
+basemap
+cartopy
+matplotlib
+numpy==1.23.5
+pandas==1.5.3
+pyproj
+pyshp
+scikit-learn
+scipy
+shapely
+scipy
+seaborn
+shapely
