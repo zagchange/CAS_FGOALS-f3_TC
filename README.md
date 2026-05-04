@@ -6,9 +6,9 @@ Overview This repository contains the data, scripts, and figures for the analysi
 Project Structure
 
 Data/: Input data required for the analysis
-Figures/: All generated output figures
-Tables/: All generated output tables
-Scripts/: Jupyter notebooks for processing, analysis, and visualization
+Figure/: All generated output figures
+Table/: All generated output tables
+Script/: Jupyter notebooks for processing, analysis, and visualization
 python_environment.yml: Conda environment specification (Python 3.10.9)
 Note: Supplementary materials are prefixed with S_ (e.g., S3_Inter-annual_variability.ipynb).
 
