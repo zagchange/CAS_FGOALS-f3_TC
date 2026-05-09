@@ -8,7 +8,8 @@ Project Structure
 - Script/: Jupyter notebooks for processing, analysis, and visualization
 - python_environment.yml: Conda environment specification (Python 3.10.9)
 
-Note: Supplementary materials are prefixed with S_ (e.g., S3_Inter-annual_variability.ipynb).
+Note: Supplementary materials are prefixed with "S" 
+(e.g., S5_Inter-annual variability of the number of TCs.ipynb, Tab_S1_Peak Category [Exclusive].ipynb, S6_Composite of Precipitation and Wind-ERA5.pdf).
 
 Environment Setup
 1. Create environment:
