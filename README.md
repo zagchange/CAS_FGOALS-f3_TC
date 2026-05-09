@@ -5,11 +5,11 @@ Overview This repository contains the data, scripts, and figures for the analysi
 
 Project Structure
 
--Data/: Input data required for the analysis
--Figure/: All generated output figures
--Table/: All generated output tables
--Script/: Jupyter notebooks for processing, analysis, and visualization
--python_environment.yml: Conda environment specification (Python 3.10.9)
+Data/: Input data required for the analysis
+Figure/: All generated output figures
+Table/: All generated output tables
+Script/: Jupyter notebooks for processing, analysis, and visualization
+python_environment.yml: Conda environment specification (Python 3.10.9)
 
 Note: Supplementary materials are prefixed with "S" 
 (e.g., S5_Inter-annual variability of the number of TCs.ipynb, Tab_S1_Peak Category [Exclusive].ipynb, S6_Composite of Precipitation and Wind-ERA5.pdf).
