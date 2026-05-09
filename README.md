@@ -42,13 +42,13 @@ Examples include:
 Create the conda environment:
 
 ```bash
-conda env create -f python_environment.yml
+conda env create -f python_environment.yml -n tc_env
 ```
 
 Activate the environment:
 
 ```bash
-conda activate project_env
+conda activate tc_env
 ```
 
 Launch Jupyter Notebook:
