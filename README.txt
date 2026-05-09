@@ -13,10 +13,10 @@ Note: Supplementary materials are prefixed with "S"
 
 Environment Setup
 1. Create environment:
-   conda env create -f python_environment.yml
+   conda env create -f python_environment.yml -n tc_env
 
 2. Activate environment:
-   conda activate project_env
+   conda activate tc_env
 
 3. Launch Jupyter:
    jupyter notebook
