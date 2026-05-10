@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Widanage"
+    given-names: "Charith Madusanka"
+
+title: "CAS FGOALS-f3 TC: Analysis scripts and processed outputs for tropical cyclone simulations in FGOALS-f3"
+
+version: 1.0
+
+doi: 10.5281/zenodo.20096522
+
+date-released: 2026-05-09
+
+url: "https://github.com/zagchange/CAS_FGOALS-f3_TC"
